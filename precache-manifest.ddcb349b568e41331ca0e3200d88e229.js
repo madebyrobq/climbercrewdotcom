@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf66e46e81e020f6d4a96ddfc94ce856",
+    "revision": "8ed8d993d114432f51b423f582ef4185",
     "url": "/climbercrewdotcom/index.html"
   },
   {
-    "revision": "28d712ff3c6bb2192559",
-    "url": "/climbercrewdotcom/static/css/main.92f43d7b.chunk.css"
+    "revision": "7de304091ef81bf8e014",
+    "url": "/climbercrewdotcom/static/css/main.bf249866.chunk.css"
   },
   {
     "revision": "2e0129063922e3bb197a",
     "url": "/climbercrewdotcom/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "28d712ff3c6bb2192559",
+    "revision": "7de304091ef81bf8e014",
     "url": "/climbercrewdotcom/static/js/main.9d1974e8.chunk.js"
   },
   {
