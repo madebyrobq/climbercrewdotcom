@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/climbercrewdotcom/static/css/main.2cce8147.chunk.css",
-    "main.js": "/climbercrewdotcom/static/js/main.9333f7b4.chunk.js",
-    "main.js.map": "/climbercrewdotcom/static/js/main.9333f7b4.chunk.js.map",
+    "main.css": "/climbercrewdotcom/static/css/main.95be23e0.chunk.css",
+    "main.js": "/climbercrewdotcom/static/js/main.232486b2.chunk.js",
+    "main.js.map": "/climbercrewdotcom/static/js/main.232486b2.chunk.js.map",
     "runtime~main.js": "/climbercrewdotcom/static/js/runtime~main.5b653d38.js",
     "runtime~main.js.map": "/climbercrewdotcom/static/js/runtime~main.5b653d38.js.map",
     "static/js/2.b41502e9.chunk.js": "/climbercrewdotcom/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/climbercrewdotcom/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/climbercrewdotcom/index.html",
-    "precache-manifest.e116d017747797007639cd859ee4f281.js": "/climbercrewdotcom/precache-manifest.e116d017747797007639cd859ee4f281.js",
+    "precache-manifest.98efe6bfa48b4dd04c02face88dff5c8.js": "/climbercrewdotcom/precache-manifest.98efe6bfa48b4dd04c02face88dff5c8.js",
     "service-worker.js": "/climbercrewdotcom/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/climbercrewdotcom/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/climbercrewdotcom/static/media/logo.5d5d9eef.svg"
+    "static/css/main.95be23e0.chunk.css.map": "/climbercrewdotcom/static/css/main.95be23e0.chunk.css.map",
+    "static/media/ClimberCrewLogo.png": "/climbercrewdotcom/static/media/ClimberCrewLogo.0fbb34de.png",
+    "static/media/App.css": "/climbercrewdotcom/static/media/backgroundimage.64124912.png"
   }
 }
