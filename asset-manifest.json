@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ce85964.chunk.css",
-    "main.js": "/static/js/main.fa2d39ed.chunk.js",
-    "main.js.map": "/static/js/main.fa2d39ed.chunk.js.map",
+    "main.css": "/static/css/main.273c2c12.chunk.css",
+    "main.js": "/static/js/main.8591f749.chunk.js",
+    "main.js.map": "/static/js/main.8591f749.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b41502e9.chunk.js": "/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.7ad91dd1.chunk.js": "/static/js/2.7ad91dd1.chunk.js",
+    "static/js/2.7ad91dd1.chunk.js.map": "/static/js/2.7ad91dd1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.994c6dfb27909e3013c002db23614c8f.js": "/precache-manifest.994c6dfb27909e3013c002db23614c8f.js",
+    "precache-manifest.5f6b9ba033f2ad3767ef3fba5759e678.js": "/precache-manifest.5f6b9ba033f2ad3767ef3fba5759e678.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1ce85964.chunk.css.map": "/static/css/main.1ce85964.chunk.css.map",
-    "static/media/ClimberCrewLogo.png": "/static/media/ClimberCrewLogo.0fbb34de.png",
+    "static/css/main.273c2c12.chunk.css.map": "/static/css/main.273c2c12.chunk.css.map",
+    "static/media/ANGLEFISH_logo-small.png": "/static/media/ANGLEFISH_logo-small.6308503b.png",
+    "static/media/ClimberCrewLogo-small.png": "/static/media/ClimberCrewLogo-small.a7474b67.png",
     "static/media/App.css": "/static/media/backgroundimage.64124912.png"
   }
 }
