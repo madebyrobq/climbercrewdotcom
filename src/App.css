@@ -5,9 +5,16 @@
 }
 
 .App-logo {
-  /*animation: App-logo-spin infinite 20s linear;*/
   height: 40vmin;
   pointer-events: none;
+}
+
+.Co-logo {
+  height: 200px;
+  pointer-events: none;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  margin: 20px;
 }
 
 .App-header {
@@ -21,6 +28,7 @@
 .sky{
   background: #5DA7FC;
   padding: 20px;
+  border-radius: 20px;
 }
 
 body{
@@ -40,6 +48,7 @@ body{
 
 a{
   color: white;
+  margin: 20px;
 }
 
 @keyframes App-logo-spin {
